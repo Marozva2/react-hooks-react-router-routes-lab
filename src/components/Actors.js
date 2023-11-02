@@ -14,8 +14,7 @@ function Actors() {
     </div>
 
   )) 
-
-
+  
   return (
     <div>
       <h1>Actors Page</h1>
